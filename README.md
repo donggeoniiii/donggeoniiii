@@ -2,7 +2,7 @@
 
 ## 📄 School
 
-👨‍🎓 SungKyunKwan University, System Management Engineering(2017.02 ~ 2023.02)
+👨‍🎓 Sungkyunkwan University, System Management Engineering(2017.02 ~ 2023.02)
 
 👨‍💻 SSAFY 9기(2023.01 ~ )
 
