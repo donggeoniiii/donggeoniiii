@@ -16,10 +16,8 @@
 <img alt="vue-js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js"/>
 
 ## 💪🏼 Tools
-
-[![img]
 <img alt="eclipse" src="https://img.shields.io/badge/eclipseide-2C2255?logo=Eclipse"/>
-<img alt="vscode" src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=VSCode"/>
+<img alt="vscode" src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode"/>
 
 ![donggeoniiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=donggeoniiii&show_icons=true&theme=radical)
 
