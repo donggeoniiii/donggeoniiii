@@ -17,11 +17,12 @@
 
 ## 💪🏼 Tools
 <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse"/>
+<img alt="intellijidea" src="https://img.shields.io/badge/intelijidea-000000?logo=Intellij"/>
 <img alt="vscode" src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode"/>
 
 
 ## 📞 Contact
 
-- e-mail : pkgun727@naver.com
+- e-mail : pkgun0727@gmail.com
 - 010-3026-7118
 
