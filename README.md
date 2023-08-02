@@ -24,5 +24,5 @@
 ## 📞 Contact
 
 - e-mail : pkgun0727@gmail.com
-- 010-3026-7118
+- phone : 010-3026-7118
 
