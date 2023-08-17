@@ -1,6 +1,6 @@
 # 🐻DONGGEONIIII
 
-## 📄 School
+## 📄 School 
 
 👨‍🎓 Sungkyunkwan University, System Management Engineering(2017.02 ~ 2023.02)
 
