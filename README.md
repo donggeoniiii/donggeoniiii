@@ -10,11 +10,11 @@
 
 ## 📚 Projects
 
-[TOASTERS](https://www.notion.so/TOASTERS-5caf9782610b4f70a86fddf306acd41e?pvs=21)
+[🥐 TOASTERS](https://www.notion.so/TOASTERS-5caf9782610b4f70a86fddf306acd41e?pvs=21)
 
-[전국 통합 동물카페 커뮤니티 프로젝트 - CAPET](https://www.notion.so/CAPET-4d3b130467e94d32990592c887d987de?pvs=21)
+[😺 전국 통합 동물카페 커뮤니티 프로젝트 - CAPET](https://www.notion.so/CAPET-4d3b130467e94d32990592c887d987de?pvs=21)
 
-[mid-season Backend Toy Project: Icebear Blog](https://www.notion.so/mid-season-Backend-Toy-Project-Icebear-Blog-2eedfe42d25d445ebb9c2b5751517446?pvs=21)
+[🐻 Mid-season Backend Toy Project: Icebear Blog](https://www.notion.so/mid-season-Backend-Toy-Project-Icebear-Blog-2eedfe42d25d445ebb9c2b5751517446?pvs=21)
 
 <br>
 
