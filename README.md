@@ -10,11 +10,9 @@
 
 ## 📚 Projects
 
-🥐 [TOASTERS](https://www.notion.so/TOASTERS-5caf9782610b4f70a86fddf306acd41e?pvs=21)
+📅 [AMADDA](https://github.com/pp-pppp/amadda)
 
-😺 [전국 통합 동물카페 커뮤니티 프로젝트 - CAPET](https://www.notion.so/CAPET-4d3b130467e94d32990592c887d987de?pvs=21)
-
-🐻 [Mid-season Backend Toy Project: Icebear Blog](https://www.notion.so/mid-season-Backend-Toy-Project-Icebear-Blog-2eedfe42d25d445ebb9c2b5751517446?pvs=21)
+🥐 [TOASTERS](https://github.com/donggeoniiii/TOASTERS)
 
 <br>
 
@@ -27,8 +25,6 @@
 
 ## 📚 Stacks
 
-### **💪🏼** Strengths
-
 - Java (8, 11, 17)
 - Spring (2 / 3)
     - Spring Boot
@@ -36,21 +32,9 @@
     - Spring Data JPA
     - MyBatis
 - MySQL
-- Exceptions
-
-### 👍 Used
-
-- Python, C#, Javascript
-- Vue
-- Spring Security
-- Unity
-
-### 👀 Interested / Learning
-
-- **NoSQL(Redis, MongoDB)**
-- CI/CD + Deployment
-- **TDD**
-- Cloud Computing
+- TDD
+    - JUnit5
+    - Mockito 
 
 <br>
 
