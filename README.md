@@ -42,7 +42,7 @@
 
 ### 👩‍💻 Hard Skills
 
-- IDE: Eclipse, **IntelliJ,  vscode,** Visual Studio 2020
+- IDE: Eclipse, IntelliJ,  vscode, Visual Studio 2020
 - HeidiSQL, MySQL
 - Postman
 
